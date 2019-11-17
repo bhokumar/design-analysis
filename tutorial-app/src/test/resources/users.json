@@ -1,0 +1,26 @@
+{
+    "userId": "userId",
+    "firstName": "Bhoopendra",
+    "lastName": "Kumar",
+    "middleName": null,
+    "address": {
+    	"city": "Noida",
+    	"street": "street number 10",
+    	"houseNumber": "House No-89",
+    	"landmark": "Near by primary school fakirabad",
+    	"stateOrProvince": "Uttar pradesh",
+    	"country": "India"
+    },
+    "education": {
+    	    "educationDetails": [
+		    	{
+		    		"educationLevel": "B. Tech",
+		    		"specification": "CSE",
+		    		"percentage": "78.89",
+		    		"isCgpa": "No",
+		    		"university": "UPTU",
+		    		"institution": "AKGEC"
+		    	}
+		    ]
+    	}
+}
